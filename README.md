@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: i never give up.
 
-- 🎮 If i were a genius inventor, i would most like to invent the best game ever
+- 🎮 If i were a genius inventor, i would most like to invent the best game ever.
 
 - 🐱‍👤 Yes, i'm trying to be a Full Stack!
 
