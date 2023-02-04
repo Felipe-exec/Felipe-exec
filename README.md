@@ -18,7 +18,7 @@
 
 - 🐱‍👤 Yes, i'm trying to be a Full Stack!
 
-- 📫 How to reach me **mzssacramento@gmail.com**
+- 📫 How to reach me: **mzssacramento@gmail.com**
 
 <p align="left">
 </p>
