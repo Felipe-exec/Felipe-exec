@@ -8,11 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-exec&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-exec" /> </p>
 
-- 😎 I love to coding games on Unity!
-
 - 🌱 I’m currently learning C#, JavaScript and ReactJS.
-
-- ⚡ Fun fact: i never give up.
 
 - 🎮 If i were a genius inventor, i would most like to invent the best game ever.
 
