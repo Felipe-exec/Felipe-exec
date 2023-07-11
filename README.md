@@ -3,16 +3,15 @@
 </p>
 
 <h1 align="center">Hello there, I'm Felipe !</h1>
-<h3 align="center">A student focused on discovering the world of programming!</h3>
 <img align="right" alt="Coding" src="https://ouch-cdn2.icons8.com/A_EmgOudijOYaZgBkex6i2uICY5OdQ7dtaSofDwnyP0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjI2/L2ZhYzdlMTJiLTc0/ZDYtNDU1Ni04MjE4/LWE3MWIyNTJkNTc4/MC5zdmc.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-exec&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-exec" /> </p>
 
-- 🌱 I’m currently learning C# and JavaScript.
+- 🌱 I’m currently learning C#, SQL and image generation with AI Stable Diffusion.
 
 - 🎮 If i were a genius inventor, i would most like to invent the best game ever.
 
-- 🐱‍👤 Yes, i'm trying to be a Full Stack!
+- 🐱‍👤 Trying to be a Full Stack developer.
 
 - 📫 How to reach me: **mzssacramento@gmail.com**
 
