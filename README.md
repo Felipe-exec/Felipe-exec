@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-exec&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-exec" /> </p>
 
-- 🐱‍👤 Trying to be a Full Stack developer.
+- 🐱‍👤 Trying to become a Full Stack developer..
 
 - 🌱 I’m currently learning C#, React, SQL, Blender3D and image generation with AI Stable Diffusion.
 
