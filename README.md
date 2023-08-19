@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-exec&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-exec" /> </p>
 
-- 🐱‍👤 Trying to become a Full Stack developer.
+- 🐱‍👤 Full Stack developer 🐱‍👤
 
-- 🌱 I’m currently learning C# and Nodejs! (some Unity in my spare time 👾)
+- 🌱 I’m currently learning C#, .NET CORE and Nodejs! (some Unity in my spare time 👾)
 
-- 🎮 If i were a genius inventor, i would most like to invent the best game ever.
+- 🎮 If i were a genius inventor, i would most like to invent the BEST game ever.
 
 <p align="left">
 </p>
