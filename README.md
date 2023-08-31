@@ -9,7 +9,7 @@
 
 - 🐱‍👤 Full Stack developer 🐱‍👤
 
-- 🌱 I’m currently learning C#, .NET CORE and Nodejs! (some Unity in my spare time 👾)
+- 🌱 I’m currently learning C# and Unity!
 
 - 🎮 If i were a genius inventor, i would most like to invent the BEST game ever.
 
