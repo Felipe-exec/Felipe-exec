@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-exec&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-exec" /> </p>
 
-- 🐱‍👤 Full Stack developer 🐱‍👤
-
 - 🌱 I’m currently learning C# and Unity!
 
 - 🎮 If i were a genius inventor, i would most like to invent the BEST game ever.
