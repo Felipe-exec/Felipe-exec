@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif" width="600" alt="Sublime's custom image"/>
+  <img src="https://camo.githubusercontent.com/efbe895b87ee5a3d899925c2329dd2efa2e10e188674ecb8de9a4283ed2c4580/68747470733a2f2f692e696d6775722e636f6d2f636b6c627271512e676966" width="500" alt="Sublime's custom image"/>
 </p>
 
 <h1 align="center">Hello there, I'm Felipe !</h1>
@@ -8,6 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-exec&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-exec" /> </p>
 
 - 🌱 I’m currently learning C# and Unreal Engine 5!
+
+- 🤖 I like generating images with Stable Diffusion!
 
 - 🎮 If i were a genius inventor, i would most like to invent the BEST game ever.
 
