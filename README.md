@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/efbe895b87ee5a3d899925c2329dd2efa2e10e188674ecb8de9a4283ed2c4580/68747470733a2f2f692e696d6775722e636f6d2f636b6c627271512e676966" width="500" alt="Sublime's custom image"/>
+  <img src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif" width="500" alt="Sublime's custom image"/>
 </p>
 
 <h1 align="center">Hello there, I'm Felipe !</h1>
