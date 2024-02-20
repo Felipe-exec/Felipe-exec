@@ -7,9 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-exec&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-exec" /> </p>
 
-- 🌱 I’m currently learning C# and Unreal Engine 5!
+- 🌱 I’m currently learning C# (.NET), Python and Unreal Engine 5!
 
 - 🤖 I like generating images with Stable Diffusion!
+
+- 🤺 Learning how to model in Blender 3D.
 
 - 🎮 If i were a genius inventor, i would most like to invent the BEST game ever.
 
