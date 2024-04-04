@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-exec&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-exec" /> </p>
 
-- 🌱 I’m currently learning C# (.NET), Python and Unreal Engine 5!
+- 🌱 I’m currently learning Unreal Engine 5!
 
 - 🤖 I like generating images with Stable Diffusion!
 
@@ -20,42 +20,27 @@
 <br>
 <h3 align="left">Languages and tools i'm learning!</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://www.unrealengine.com/en-US/unreal-engine-5" target="_blank" rel="noreferrer">
-    <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="UE5" width="50" height="40"/>
-  </a>
-  <a href="https://www.blender.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="50" height="40"/>
-  </a>
+  ### My Languages and Tools:
+<img align="left" alt="Visual Studio" width="36px" src="./img/visual-studio2.png" style="padding-right:10px;" />
+<img align="left" alt="Unreal" width="36px" src="./img/unreal2.png" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="36px" src="./img/unity.png" style="padding-right:10px;" />
+<img align="left" alt="Blender3D" width="36px" src="./img/blender2.png" style="padding-right:10px;" />
+<img align="left" alt="Csharp" width="36px" src="./img/csharp2.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="36px" src="./img/html2.png" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="36px" src="./img/css2.png" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="34px" src="./img/js2.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="43px" src="./img/java2.png" style="padding-right:10px;" />
+<img align="left" alt="C" width="36px" src="./img/c2.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
+<img align="left" alt="Php" width="36px" src="./img/php2.png" style="padding-right:10px;" />
+<img align="left" alt="React" width="36px" src="./img/react2.png" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="50px" src="./img/nodejs2.png" style="padding-right:10px;" />
+<img align="left" alt="Spring Boot" width="36px" src="./img/spring-boot2.png" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="70px" src="./img/spring2.png" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="45px" src="./img/mongodb2.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="50px" src="./img/mysql2.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
 </p>
 
 <br>
