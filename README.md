@@ -3,12 +3,11 @@
 </p>
 
 <h1 align="center">Hello there, I'm Felipe !</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=490&lines=Welcome+to+my+Profile!;I'm+currently+a+Software+Engineering+Student+💻;" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" src="https://ouch-cdn2.icons8.com/A_EmgOudijOYaZgBkex6i2uICY5OdQ7dtaSofDwnyP0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjI2/L2ZhYzdlMTJiLTc0/ZDYtNDU1Ni04MjE4/LWE3MWIyNTJkNTc4/MC5zdmc.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-exec&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-exec" /> </p>
 
-- 🌱 I’m currently learning Unreal Engine 5! Also making a game...
+- 🌱 I’m learning Unreal Engine 5!
 
 - 🤺 Learning how to model in Blender 3D.
 
