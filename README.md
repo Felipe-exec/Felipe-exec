@@ -11,7 +11,7 @@
 
 - 🤺 Learning how to model in Blender 3D.
 
-- 🤖 I like generating images with Stable Diffusion!
+- 🤖 I like using Stable Diffusion.
 
 <p align="left">
 </p>
